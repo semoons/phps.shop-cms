@@ -7,16 +7,17 @@
 这是第一次用vue做项目，边学边做。代码很粗糙，后期会不断优化。<br/>
 做这个开源项目，纯粹是为了学习交流，很多不足的地方欢迎大家指教。<br/>  
 
-API端：https://github.com/baok1592/phps.shop-api
-小程序端：https://github.com/baok1592/phps.shop-program
-CMS端：https://github.com/baok1592/phps.shop-cms
+API端：https://github.com/baok1592/phps.shop-api <br/>
+小程序端：https://github.com/baok1592/phps.shop-program <br/>
+CMS端：https://github.com/baok1592/phps.shop-cms <br/>
 微信网页端：https://github.com/baok1592/phps.shop-wxwap （完善中）
 
 
-## 小程序端的安装使用  
-1、将源码放入小程序工具<br/>
-2、修改utils/config.js中的api网址<br/>
- 
+## CMS端的安装使用  
+1、npm install<br/>
+2、npm run serve<br/>
+3、main.js中修改api网址
+4、账号admin 密码123456
 
 ## 版权信息
 如花拼团商城系统同ThinkPHP一样，遵循Apache2开源协议发布，并提供免费使用 <br/>
